@@ -1,4 +1,4 @@
-%% Computation of a quadratic plus quartic potential 
+%% Computation of a quadratic plus cubbic potential 
 %% INPUTS:
 %%          mass, omega_x,omega_y,alpha_x,alpha_y: Potential parameters (double)
 %%          X,Y: Computational grids (matrix)
